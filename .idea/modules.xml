@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleKSPSample.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleKSPSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SimpleKSPSample.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SimpleKSPSample.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/SimpleKSPSample.processor.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/SimpleKSPSample.processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/SimpleKSPSample.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/SimpleKSPSample.sample.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StickyState</string>
+    <string name="com_back">Back</string>
+    <string name="com_done">Done</string>
+    <string name="name_input_hint">Enter your name.</string>
+    <string name="welcome_message">Good to see you, %1$s.</string>
+</resources>
